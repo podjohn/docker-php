@@ -35,6 +35,7 @@ if [ $# -eq 0 ]; then
     # Set versions
     phpVersions=(
         7.1
+        7.2
         # 7.4
         # 8.0
         # 8.1
